@@ -1,9 +1,9 @@
-# 🐭️ MouseHunt - <name>
+# 🐭️ MouseHunt - Toggle Legacy HUD
 
-A Userscript for [MouseHunt](https://mousehuntgame.com) to <do something>
+A Userscript for [MouseHunt](https://mousehuntgame.com) to test interactions with the legacy HUD.
 
 ## Installation
 
-Install via [GreasyFork](https://greasyfork.org/en/scripts/<url>)
+Install manually.
 
 *You must have [ViolentMonkey](https://violentmonkey.github.io/) or another userscript manager installed.*
